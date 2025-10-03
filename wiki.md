@@ -3,17 +3,17 @@
 Sandwiches could be one of the easiest yet filling meal to have. Seattle's sandwich scene offers a diverse range of delicious options that cater to every palate. From classic Italian deli creations to innovative modern twists and sustainable local ingredients, these three favorites represent some of the best sandwich experiences Seattle has to offer. Each brings its unique personality and culinary approach to the art of sandwich making.
 
 ---------
-## Layers Sandwich - Green Lake
+## <ins>Layers Sandwich - Green Lake</ins>
 ![](https://images.squarespace-cdn.com/content/v1/6459bf457514716701e20a55/1758738587565-6BFD3OMLVJUXOQKU7SOM/image-asset.jpeg?format=750w)
 **Location**: 7900 East Green Lake Dr N #107, Seattle, WA 98103
 
 Layers Sandwich shop in Green Lake has quickly become a neighborhood favorite for their creative and generously portioned sandwiches. Known for their perfect bread-to-filling ratio and high-quality ingredients. Layers offers both classic combinations and innovative new weekly sandwich creations that keep customers coming back. Whether its their sourdough, potato bun, or focaccia are all great options to try. 
 ### Must-Try Sandwiches
 * **Captain Rick** - oregon tuna salad with pickle, red onion, celery, herbs, bbq potato chips, crisp lettuces & aioli on griddled sourdough 
-* **Peace, Love & Pork Belly** - slow roasted pork belly, pickled daikon & carrot, cucumber, jalapeno aioli, cilantro & mint on a toasted hoagie
+* **Peace, Love & Pork Belly** - slow roasted pork belly, pickled daikon & carrot, cucumber, jalapeno aioli, cilantro & mint 
 * **The Grind** - mortadella, pepperoni, giardinayo, shaved red onion, pepperoccini, italian dressing and crisp lettuces on a toasted hoagie
 --------
-## Homegrown 
+## <ins>Homegrown</ins>
 ![](https://img.cdn4dd.com/cdn-cgi/image/fit=cover,width=1000,height=300,format=auto,quality=80/https://doordash-static.s3.amazonaws.com/media/store/header/13110.jpg)
 **Location**: 999 3rd Ave Corner of 2nd &, Marion St, Seattle, WA 98104
 
@@ -25,7 +25,7 @@ Homegrown brings a sustainable and locally-sourced approach to sandwich crafting
 * **Broccoli Melt** - white cheddar, smokey roasted broccoli, caramelized onions, chermoula aioli & farm greens
 ----------
 
-## Bottega Gabriele
+## <ins>Bottega Gabriele</ins>
 ![](https://res.cloudinary.com/the-infatuation/image/upload/c_fill,w_1920,ar_4:3,g_center,f_auto/images/Spreadi_BottegaGabriele_NateWatters_SEA-3_teulsi)
 **Locations**: 71 Yesler Wy, Seattle, WA 98104
 Bottega Gabriele offers authentic Italian deli experience with traditional recipes and imported ingredients. Their sandwiches feature house-made meats, authentic Italian cheeses, and crusty bread that transports you straight to the streets of Italy.
